@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Mayuri Nayak</h1> 
-<h3 align="center">📍 Currently working at <strong>Web Beta (Acube AI)</strong></h3>
+<h3 align="center">📍 Currently working at <b>Web Beta (Acube AI)</b></h3>
 <h3 align="center">🚀 Passionate Data Analyst | Turning Data into Decisions</h3>
 
 <p align="center">
@@ -75,12 +75,18 @@
 
 ### 📫 Connect with Me
 
-<div align="center" style="background-color:#f0f0f0; padding: 15px; border-radius: 10px;">
-  <a href="mailto:mayurinayak2002@gmail.com">
-    <img src="https://img.shields.io/badge/mayurinayak2002@gmail.com-bbbbbb?style=for-the-badge&logo=gmail&logoColor=222222" alt="Email Badge" />
+<div align="center" style="
+  background-color: #e6e6e6;
+  padding: 25px 20px;
+  border-radius: 30px;
+  display: inline-block;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+">
+  <a href="mailto:mayurinayak2002@gmail.com" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Gmail-mayurinayak2002@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
-  <a href="https://www.linkedin.com/in/mayuri-nayak-analyst/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-bbbbbb?style=for-the-badge&logo=linkedin&logoColor=222222" alt="LinkedIn Badge" />
+  <a href="https://www.linkedin.com/in/mayuri-nayak-analyst/" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-Mayuri%20Nayak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 </div>
 
