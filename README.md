@@ -1,20 +1,89 @@
-<h1 align="center">Hi 👋, I'm Mayuri Nayak</h1>
-<h3 align="center">A passionate Front-End Developer</h3>
+<h1 align="center">👋 Hello, I'm Mayuri Nayak</h1> 
+<h3 align="center">📍 Currently working at <strong>Web Beta (Acube AI)</strong></h3>
+<h3 align="center">🚀 Passionate Data Analyst | Turning Data into Decisions</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayuri-nayak&label=Profile%20views&color=0e75b6&style=flat" alt="mayuri-nayak" /> </p>
+<p align="center">
 
-- 📫 reach me:- **mayurinayak2002@gmail.com**
+  <!-- GitHub Stars -->
+  <a href="https://github.com/someshsn?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/github/stars/someshsn?style=social" alt="GitHub Stars"/>
+  </a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mayuri-nayak-166203203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayuri-nayak-166203203" height="30" width="40" /></a>
+  <!-- GitHub Followers -->
+  <a href="https://github.com/someshsn?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/someshsn?label=Followers&style=social" alt="GitHub Followers"/>
+  </a>
+
+  <!-- Public Repositories -->
+  <a href="https://github.com/someshsn?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Public%20Repos-COUNT-blue?style=flat&logo=github" alt="Public Repos"/>
+  </a>
+
+  <!-- Profile Visitors -->
+  <a href="https://github.com/someshsn" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=someshsn&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+
+  <!-- Contributions -->
+  <a href="https://github.com/someshsn" target="_blank">
+    <img src="https://img.shields.io/badge/Contributions-365%2B-brightgreen?style=flat&logo=github" alt="GitHub Contributions"/>
+  </a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayuri-nayak&show_icons=true&locale=en&layout=compact" alt="mayuri-nayak" /></p>
+### 👨‍💼 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayuri-nayak&show_icons=true&locale=en" alt="mayuri-nayak" /></p>
+- 🎯 A results-driven *Data Analyst* with hands-on experience in transforming data into meaningful insights.  
+- 📊 Passionate about building dashboards, analyzing trends, and helping businesses make *data-backed decisions*.  
+- 💡 Strong in data cleaning, visualization, and statistical analysis.  
+- 🤝 Skilled in collaborating with cross-functional teams and presenting findings to stakeholders.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayuri-nayak&" alt="mayuri-nayak" /></p>
+---
+
+### 💻 My Skills & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/DAX-007ACC?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETL-FF9900?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-FF6F00?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20Apps-8C1F95?style=for-the-badge&logo=powerapps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20Automate-2D9BF0?style=for-the-badge&logo=powerautomate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Forecasting-F28C28?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statistical%20Analysis-6A5ACD?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI%20Services-FFC107?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+---
+
+### 📈 What Data Analysts Do
+
+✅ Gather, clean, and organize large datasets  
+✅ Use tools like SQL, Power BI, and DAX to extract insights  
+✅ Design dashboards and reports for real-time analysis  
+✅ Forecast trends using historical data  
+✅ Communicate data trends and business implications  
+✅ Automate workflows using tools like Power Automate  
+✅ Enable data-driven decision-making across departments  
+
+---
+
+### 📫 Connect with Me
+
+<div align="center" style="background-color:#f0f0f0; padding: 15px; border-radius: 10px;">
+  <a href="mailto:mayurinayak2002@gmail.com">
+    <img src="https://img.shields.io/badge/mayurinayak2002@gmail.com-bbbbbb?style=for-the-badge&logo=gmail&logoColor=222222" alt="Email Badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/mayuri-nayak-analyst/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-bbbbbb?style=for-the-badge&logo=linkedin&logoColor=222222" alt="LinkedIn Badge" />
+  </a>
+</div>
+
+---
+
+⭐️ *Thanks for visiting!*
