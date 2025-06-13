@@ -2,35 +2,6 @@
 <h3 align="center">📍 Currently working at <b>Web Beta (Acube AI)</b></h3>
 <h3 align="center">🚀 Passionate Data Analyst | Turning Data into Decisions</h3>
 
-<p align="center">
-
-  <!-- GitHub Stars -->
-  <a href="https://github.com/someshsn?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/github/stars/someshsn?style=social" alt="GitHub Stars"/>
-  </a>
-
-  <!-- GitHub Followers -->
-  <a href="https://github.com/someshsn?tab=followers" target="_blank">
-    <img src="https://img.shields.io/github/followers/someshsn?label=Followers&style=social" alt="GitHub Followers"/>
-  </a>
-
-  <!-- Public Repositories -->
-  <a href="https://github.com/someshsn?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Public%20Repos-COUNT-blue?style=flat&logo=github" alt="Public Repos"/>
-  </a>
-
-  <!-- Profile Visitors -->
-  <a href="https://github.com/someshsn" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=someshsn&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-
-  <!-- Contributions -->
-  <a href="https://github.com/someshsn" target="_blank">
-    <img src="https://img.shields.io/badge/Contributions-365%2B-brightgreen?style=flat&logo=github" alt="GitHub Contributions"/>
-  </a>
-
-</p>
-
 ---
 
 ### 👨‍💼 About Me
