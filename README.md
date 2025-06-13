@@ -20,7 +20,6 @@
   <img src="https://img.shields.io/badge/DAX-007ACC?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/ETL-FF9900?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-FF6F00?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20Apps-8C1F95?style=for-the-badge&logo=powerapps&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20Automate-2D9BF0?style=for-the-badge&logo=powerautomate&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
@@ -28,6 +27,9 @@
   <img src="https://img.shields.io/badge/Forecasting-F28C28?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Statistical%20Analysis-6A5ACD?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI%20Services-FFC107?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 ---
