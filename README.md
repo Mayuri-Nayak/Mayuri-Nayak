@@ -1,15 +1,17 @@
 <h1 align="center">👋 Hello, I'm Mayuri Nayak</h1> 
-<h3 align="center">📍 Currently working at <b>Web Beta (Acube AI)</b></h3>
+<h3 align="center">📍 Currently working at <b>Acube AI (Web Beta)</b></h3>
 <h3 align="center">🚀 Passionate Data Analyst | Turning Data into Decisions</h3>
 
 ---
 
 ### 👨‍💼 About Me
 
-- 🎯 A results-driven *Data Analyst* with hands-on experience in transforming data into meaningful insights.  
-- 📊 Passionate about building dashboards, analyzing trends, and helping businesses make *data-backed decisions*.  
-- 💡 Strong in data cleaning, visualization, and statistical analysis.  
-- 🤝 Skilled in collaborating with cross-functional teams and presenting findings to stakeholders.
+🎓 MCA Postgraduate | 💼 Data Analyst & Power BI Developer | 🌐 Frontend Developer
+🧠 Skilled in SQL, Advanced Excel, Python, Machine Learning, HTML, CSS, JavaScript, React
+📊 Passionate about transforming data into meaningful insights & building clean, interactive dashboards and web apps
+🚀 Exploring opportunities in Data Analytics, Business Intelligence, and technical/semi-technical analyst roles
+
+
 
 ---
 
