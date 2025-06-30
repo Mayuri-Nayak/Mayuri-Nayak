@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Mayuri Nayak</h1> 
-<h3 align="center">📍 Currently working at <b>WEB BETA</b></h3>
+<h3 align="center">📍 Currently working at <b>WEB BETA (Acube AI)</b></h3>
 <h3 align="center">🚀 Passionate Data Analyst | Turning Data into Decisions</h3>
 
 ---
