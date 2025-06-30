@@ -38,7 +38,7 @@
 
 ---
 
-### 📈 What Data Analysts Do
+### 📈  My Role as a Data Analyst at Web Beta (Acube AI)
 
 ✅ Gather, clean, and organize large datasets  
 ✅ Use tools like SQL, Power BI, and DAX to extract insights  
@@ -46,7 +46,8 @@
 ✅ Forecast trends using historical data  
 ✅ Communicate data trends and business implications  
 ✅ Automate workflows using tools like Power Automate  
-✅ Enable data-driven decision-making across departments  
+✅ Enable data-driven decision-making across departments 
+
 
 ---
 
